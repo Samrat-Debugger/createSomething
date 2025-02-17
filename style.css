@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    width: 40px;
+    height: 25px;
+    background-color: blue;
+}
+
+.right ul {
+    display: flex;
+}
+
+.right ul li {
+    list-style: none;
+
+}
+
+.right ul li a {
+    text-decoration: none;
+    padding: 10px;
+}
